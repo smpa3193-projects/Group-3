@@ -1,0 +1,5 @@
+March 6, 2017
+Our group met and exchanged the ideas that we each had. Sophia: salaries at arts companies. Siyu: fruit imports/exports. Tom: Award shows. Instead of choosing one right away, we decided to try to each find a thorough database for each of our respective ideas, a question we want to answer using the database, and the task we want to automate. Once we each try to synthesize our ideas into more specific ones, we will be able to see which will be the most interesting and realistic to accomplish. Based on the information we find, we’ll decide which idea we’ll end up working on.
+
+March 23, 2016
+We plan on meeting soon to exchange the databases we've found to figure out which one we think will be the best to work with.  One example is the following database which includes the transcripts of all of the Oscar acceptance speeches ever given.  The database can be used to determine the most frequently used words in acceptance speeches.  Link: http://awardsdatabase.oscars.org/# 
