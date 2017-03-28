@@ -1,0 +1,4 @@
+March 28 - Siyu
+For my proposal, we could use data from the Department of Agriculture Economic Research Service. https://www.ers.usda.gov/data-products/fruit-and-tree-nut-data/data-by-category/
+The website provide data for both import and export of citrus, melons, noncitrus and tree nuts. For instance we can select melon as the research object and scrape all melon's date from the website. 
+And we can apply the knowledge we learned from the first quater of this semester, such as pivot table in excel and sql, to this project in order to examine which fruit has the highest import/export rate, which fruit brought the largest export revenue and so on.  
