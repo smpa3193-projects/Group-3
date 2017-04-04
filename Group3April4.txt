@@ -1,0 +1,2 @@
+April 3, 2017
+Our group tentatively decided to use the database on Oscar acceptance speeches to determine which words have been used the most/which people have been thanked the most.  This week, we'll look more into the steps we need to take to extract that data from the site (http://aaspeechesdb.oscars.org/) to make sure it's something we'll be able to do.
