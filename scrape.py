@@ -10,20 +10,11 @@ for speech in speeches:
     response = requests.get(url+speech)
     html = response.content
     soup = BeautifulSoup(html)
-    table = soup.find('table')
-    
-    for row in table.findAll('tr'):
-    	list_of_cells = []
-    	for cell in row.findAll('td'):
-    		if cell.find('a'):
-    			link = cell.find('a')['href']
-    			list_of_cells.append(link)
-    			list_of_cells.append(cell.text)
-    		else:
-    			list_of_cells.append(cell.text)
-    	list_of_rows.append(list_of_cells)
+    mydivs = soup.findAll("div", { "p class" : "MInormal" })
+    for div in mydivs:
+    	print mydivs
 
 outfile = open("speeches.csv", "wb")
-writer = csv.writer(outfile)
-writer.writerow(["rec", "year", "name", "film", "date", "category", "modified", "transcript"])
-writer.writerows(list_of_rows)
+
+
+
